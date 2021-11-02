@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bekzodturgunoff
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning Html, Java, Pyhton
+- 🌱 I’m currently learning Html, Java, Css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : bekzodturgunoff@gmail.com
 
