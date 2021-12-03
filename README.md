@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : bekzodturgunoff@gmail.com
 -    My typing : https://www.keybr.com/profile/344xwh7
+-    I'm from Uzbekistan 
 
 <!---
 bekzodturgunoff/bekzodturgunoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
