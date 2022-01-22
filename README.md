@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bekzodturgunoff
+- 👋 Hi, I’m Bekzod
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning Html, Java, Css.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me : bekzodturgunoff@gmail.com
 -    My typing : https://www.keybr.com/profile/344xwh7
 -    I'm from Uzbekistan 
