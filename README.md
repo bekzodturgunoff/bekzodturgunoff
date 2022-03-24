@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekzodturgunoff&show_icons=true&locale=en" alt="bekzodturgunoff" /></p>
 <br><br>
-<p><a href="https://www.buymeacoffee.com/Buy me a coffee "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee " /></a></p>
+<p><a href="https://www.buymeacoffee.com/bekzodturgunoff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee " /></a></p>
 
