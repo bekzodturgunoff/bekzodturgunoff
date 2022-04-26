@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzodturgunoff&label=Profile%20views&color=0e75b6&style=flat" alt="bekzodturgunoff" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://bekzodturgunoff.github.io/portfolio/](https://bekzodturgunoff.github.io/portfolio/)
 
