@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bekzodturgunoff@gmail.com**
 
-- ⚡ Fun fact **With me everything is fun!**
+- ⚡ Fun fact **I'm a self taught developer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
