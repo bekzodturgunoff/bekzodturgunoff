@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm a self taught developer!**
 
-- ⚡ My **Portfolio!** : https://portfolio-bt.netlify.app
+- ⚡ My **Portfolio!** : portfolio-bt.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
