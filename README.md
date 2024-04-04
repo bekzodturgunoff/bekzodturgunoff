@@ -1,3 +1,5 @@
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 <h1 align="center">Hi 👋, I'm Bekzod</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzodturgunoff&label=Profile%20views&color=0e75b6&style=flat" alt="bekzodturgunoff" /> </p>
