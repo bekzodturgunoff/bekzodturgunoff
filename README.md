@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I'm a self taught developer!**
 
-- ⚡ My **Portfolio!** : btpt.vercel.app
+- ⚡ My **Portfolio!** : https://ptbt.vercel.app
 
 
 <h3 align="left">Languages and Tools:</h3>
