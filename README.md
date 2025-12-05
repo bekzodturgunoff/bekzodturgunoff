@@ -9,7 +9,7 @@
 - 🌐 Portfolio: https://ptbt.vercel.app/
 - ✉️ Email: bekzodturgunoff@gmail.com
 - 💬 Telegram: https://t.me/bekzodturgunoff
-- 📄 Resume (PDF): https://ptbt.vercel.app/resume/resume_Bekzod.docx
+- 📄 Resume: https://ptbt.vercel.app/resume/resume_Bekzod.docx
 
 ## Skills
 - Languages: JavaScript, TypeScript, Python, C, Assembly
