@@ -15,10 +15,5 @@
 - Languages: JavaScript, TypeScript, Python, C, Assembly
 - Frontend: React, Astro, Tailwind, Sass
 - Backend/Runtime: Node.js, Python
-- Tooling: Git, GitHub Actions, accessibility & performance auditing
+- Tooling: Git, accessibility & performance auditing
 - Focus: UX, performance, accessibility, security-aware development
-
-## What I’m looking for
-- Frontend-heavy roles with room for ownership across UX/performance
-- Security-conscious teams where I can apply my InfoSec studies
-- Freelance/contract opportunities for web product launches
