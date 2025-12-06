@@ -6,7 +6,7 @@
 - 🤝 I partner closely with design and backend to deliver reliable, measurable experiences
 
 ## Links
-- 🌐 Portfolio: https://ptbt.vercel.app/
+- 🌐 Portfolio: https://itsbek.vercel.app
 - ✉️ Email: bekzodturgunoff@gmail.com
 - 💬 Telegram: https://t.me/bekzodturgunoff
 - 📄 Resume: https://ptbt.vercel.app/resume/resume_Bekzod.docx
