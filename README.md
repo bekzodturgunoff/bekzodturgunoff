@@ -34,8 +34,8 @@
 
 ---
 
-### Find me
+> *"Built with love, caffeine, and a few mysterious errors. Fix incoming… soonish."*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-itsbek.vercel.app-black?style=flat-square&logo=vercel)](https://itsbek.vercel.app)
 [![Email](https://img.shields.io/badge/Email-bekzodturgunoff@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bekzodturgunoff@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@bekzodturgunoff-2CA5E0?style=flat-square&logo=telegram)](https://t.me/bekzodturgunoff)
+[![Telegram](https://img.shields.io/badge/Telegram-bekzodturgunoff-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bekzodturgunoff)
