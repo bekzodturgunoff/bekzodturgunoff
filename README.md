@@ -39,4 +39,4 @@
 
 ---
 
-> *"Built with love, caffeine, and a few mysterious errors. Fix incoming… soonish."*
+> *"Built with love, caffeine, and a few mysterious errors."*
