@@ -1,19 +1,17 @@
-# Hi 👋, I'm Bekzod — Software Engineer
+# Hey, I'm Bekzod 👋
 
-- 📍 Seoul, South Korea — open for new projects
-- 🛠️ I build fast, accessible web products with React, Astro, and TypeScript; comfortable with Python and C-level problem solving
-- 🔒 Studying Computer Information Security at Sejong University; ship with a security-minded approach
-- 🤝 I partner closely with design and backend to deliver reliable, measurable experiences
+Frontend engineer with 4+ years turning designs into fast, accessible web products.
+React and Astro are my home — TypeScript is non-negotiable.
 
-## Links
-- 🌐 Portfolio: https://itsbek.vercel.app
-- ✉️ Email: bekzodturgunoff@gmail.com
-- 💬 Telegram: https://t.me/bekzodturgunoff
-- 📄 Resume: https://ptbt.vercel.app/resume/resume_Bekzod.docx
+📍 Seoul · 🎓 Studying Computer Information Security (yes, I audit my own code)  
+🟢 Open for new projects
 
-## Skills
-- Languages: JavaScript, TypeScript, Python, C, Assembly
-- Frontend: React, Astro, Tailwind, Sass
-- Backend/Runtime: Node.js, Python
-- Tooling: Git, accessibility & performance auditing
-- Focus: UX, performance, accessibility, security-aware development
+## Stack
+**Frontend:** React · Astro · TypeScript · Tailwind · Sass  
+**Also alive in:** Node.js · Python · C · Assembly *(yes, Assembly)*  
+**Tooling:** Git · CI/CD · Accessibility & Performance Audits
+
+## Find me
+🌐 [itsbek.vercel.app](https://itsbek.vercel.app) · ✉️ bekzodturgunoff@gmail.com · 💬 [Telegram](https://t.me/bekzodturgunoff)
+
+> *"Built with love, caffeine, and a few mysterious errors."*
