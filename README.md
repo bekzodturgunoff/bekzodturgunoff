@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 Seoul &nbsp;·&nbsp; 🟢 Open for projects &nbsp;·&nbsp; 🎓 Studying infosec (so I know exactly how to break what I build)
+  Open for projects &nbsp;·&nbsp; 🎓 Studying infosec (so I know exactly how to break what I build)
 </p>
 
 ---
@@ -33,7 +33,7 @@
 | 🎨 **Design fidelity** | I read Figma files, not just screenshots |
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-itsbek.vercel.app-black?style=flat-square&logo=vercel)](https://itsbek.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itsbek.me-black?style=flat-square&logo=vercel)](https://itsbek.uz)
 [![Email](https://img.shields.io/badge/Email-bekzodturgunoff@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bekzodturgunoff@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-bekzodturgunoff-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bekzodturgunoff)
 
