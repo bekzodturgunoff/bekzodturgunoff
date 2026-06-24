@@ -33,7 +33,7 @@
 | 🎨 **Design fidelity** | I read Figma files, not just screenshots |
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-itsbek.me-black?style=flat-square&logo=vercel)](https://itsbek.uz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itsbek.me-black?style=flat-square&logo=vercel)](https://itsbek.me)
 [![Email](https://img.shields.io/badge/Email-bekzodturgunoff@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bekzodturgunoff@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-bekzodturgunoff-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bekzodturgunoff)
 
